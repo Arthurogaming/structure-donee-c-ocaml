@@ -1,0 +1,16 @@
+(executables
+ (names
+  exemple_liste_personnalisee
+  exemple_pile
+  exemple_file
+  exemple_file_de_priorite
+  exemple_table_de_hachage
+  exemple_arbre_binaire
+  exemple_arbre_binaire_de_recherche
+  exemple_union_trouver
+  exemple_graphe_matrice_adjacence
+  exemple_graphe_liste_adjacence
+  exemple_automate_fini
+  exemple_mutex_abstrait
+  exemple_semaphore_abstrait)
+ (libraries structures_de_donnees))

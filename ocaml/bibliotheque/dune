@@ -1,0 +1,17 @@
+(library
+ (name structures_de_donnees)
+ (wrapped false)
+ (modules
+  liste_personnalisee
+  pile
+  file
+  file_de_priorite
+  table_de_hachage
+  arbre_binaire
+  arbre_binaire_de_recherche
+  union_trouver
+  graphe_matrice_adjacence
+  graphe_liste_adjacence
+  automate_fini
+  mutex_abstrait
+  semaphore_abstrait))

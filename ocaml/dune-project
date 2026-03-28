@@ -1,0 +1,3 @@
+(lang dune 3.10)
+(name structure_de_donnees_c_ocaml)
+(generate_opam_files false)
