@@ -113,9 +113,3 @@ dune exec ./exemples/exemple_pile.exe
 dune exec ./exemples/exemple_union_trouver.exe
 ```
 
-## Choix pedagogiques
-
-- tous les identifiants definis dans le projet sont en francais
-- les structures manipulent des entiers, sauf l'automate qui utilise des caracteres pour l'alphabet
-- chaque module montre les operations standard les plus utiles
-- les exemples servent de demonstrations et de mini-tests de comportement
